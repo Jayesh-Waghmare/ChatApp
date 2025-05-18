@@ -4,7 +4,7 @@ A real-time chat application built with React, Node.js, Express, and Socket.IO.
 
 ## 🌐 Live URLs
 
-- **Frontend**: https://chat-app-ten-eosin-16.vercel.app/login
+- **Frontend**: https://chat-app-ten-eosin-16.vercel.app
 - **Backend API Status**: https://chat-app-backend-chi-swart.vercel.app/api/status
 
 **⚠️ Note: The backend must be live for the chat app to function correctly. It handles authentication, real-time messaging, and API requests.**
